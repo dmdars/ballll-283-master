@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench version="2.0">
+<workbenchAdvisor/>
+<window>
+<fastViewData fastViewLocation="1024">
+<orientation position="512" view="org.eclipse.debug.ui.ExpressionView"/>
+<orientation position="512" view="org.coocox.codebugger.trace.ui.traceview"/>
+<orientation position="512" view="org.eclipse.ui.console.ConsoleView"/>
+<orientation position="512" view="org.eclipse.debug.ui.VariableView"/>
+</fastViewData>
+<perspectiveBar/>
+<page focus="true" label="Workspace - CooCox CoBuilder">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="4"/>
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="mekanisme_penendang.c" partName="mekanisme_penendang.c" path="H:/TRUI/ballll-283-master/speed control - Satu Timer Interrupt/cmsis_lib/source/mekanisme_penendang.c" title="mekanisme_penendang.c" tooltip="H:/TRUI/ballll-283-master/speed control - Satu Timer Interrupt/cmsis_lib/source/mekanisme_penendang.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/encoder/cmsis_lib/source/mekanisme_penendang.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="577" selectionTopPixel="2424"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="mekanisme_penendang.h" partName="mekanisme_penendang.h" path="H:/TRUI/ballll-283-master/speed control - Satu Timer Interrupt/cmsis_lib/include/mekanisme_penendang.h" title="mekanisme_penendang.h" tooltip="H:/TRUI/ballll-283-master/speed control - Satu Timer Interrupt/cmsis_lib/include/mekanisme_penendang.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/encoder/cmsis_lib/include/mekanisme_penendang.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="467" selectionTopPixel="34"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_adc.c" partName="stm32f4xx_adc.c" path="H:/TRUI/ballll-283-master/speed control - Satu Timer Interrupt/cmsis_lib/source/stm32f4xx_adc.c" title="stm32f4xx_adc.c" tooltip="H:/TRUI/ballll-283-master/speed control - Satu Timer Interrupt/cmsis_lib/source/stm32f4xx_adc.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/encoder/cmsis_lib/source/stm32f4xx_adc.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_adc.h" partName="stm32f4xx_adc.h" path="H:/TRUI/ballll-283-master/speed control - Satu Timer Interrupt/cmsis_lib/include/stm32f4xx_adc.h" title="stm32f4xx_adc.h" tooltip="H:/TRUI/ballll-283-master/speed control - Satu Timer Interrupt/cmsis_lib/include/stm32f4xx_adc.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/encoder/cmsis_lib/include/stm32f4xx_adc.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="8862" selectionTopPixel="3440"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="H:/TRUI/ballll-283-master/speed control - Satu Timer Interrupt/main.c" title="main.c" tooltip="H:/TRUI/ballll-283-master/speed control - Satu Timer Interrupt/main.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/encoder/main.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2702" selectionTopPixel="2890"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="speed_control.h" partName="speed_control.h" path="H:/TRUI/ballll-283-master/speed control - Satu Timer Interrupt/cmsis_lib/include/speed_control.h" title="speed_control.h" tooltip="H:/TRUI/ballll-283-master/speed control - Satu Timer Interrupt/cmsis_lib/include/speed_control.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/encoder/cmsis_lib/include/speed_control.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="763" selectionTopPixel="433"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="speed_control.c" partName="speed_control.c" path="H:/TRUI/ballll-283-master/speed control - Satu Timer Interrupt/cmsis_lib/source/speed_control.c" title="speed_control.c" tooltip="H:/TRUI/ballll-283-master/speed control - Satu Timer Interrupt/cmsis_lib/source/speed_control.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/encoder/cmsis_lib/source/speed_control.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="18525" selectionTopPixel="13478"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="localization.c" partName="localization.c" path="H:/TRUI/ballll-283-master/speed control - Satu Timer Interrupt/cmsis_lib/source/localization.c" title="localization.c" tooltip="H:/TRUI/ballll-283-master/speed control - Satu Timer Interrupt/cmsis_lib/source/localization.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/encoder/cmsis_lib/source/localization.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="18471" selectionTopPixel="17213"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="tm_stm32f4_rotary_encoder.c" partName="tm_stm32f4_rotary_encoder.c" path="H:/TRUI/ballll-283-master/speed control - Satu Timer Interrupt/cmsis_lib/source/tm_stm32f4_rotary_encoder.c" title="tm_stm32f4_rotary_encoder.c" tooltip="H:/TRUI/ballll-283-master/speed control - Satu Timer Interrupt/cmsis_lib/source/tm_stm32f4_rotary_encoder.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/encoder/cmsis_lib/source/tm_stm32f4_rotary_encoder.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="10" selectionOffset="1523" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_tim.c" partName="stm32f4xx_tim.c" path="H:/TRUI/ballll-283-master/speed control - Satu Timer Interrupt/cmsis_lib/source/stm32f4xx_tim.c" title="stm32f4xx_tim.c" tooltip="H:/TRUI/ballll-283-master/speed control - Satu Timer Interrupt/cmsis_lib/source/stm32f4xx_tim.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/encoder/cmsis_lib/source/stm32f4xx_tim.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="21" selectionOffset="90387" selectionTopPixel="50660"/>
+</editor>
+</editors>
+<views>
+<view id="org.coocox.builder.ui.views.ProjectView" partName="Project">
+<viewState CommonNavigator.LINKING_ENABLED="0" horizontalPosition="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0" verticalPosition="0">
+<expanded>
+<element path="/encoder"/>
+<element path="/encoder/cmsis_lib"/>
+<element path="/encoder/cmsis_lib/include"/>
+<element path="/encoder/cmsis_lib/source"/>
+</expanded>
+<selection>
+<element path="/encoder/cmsis_lib/include/stm32f4xx_tim.h"/>
+</selection>
+</viewState>
+</view>
+<view id="org.eclipse.search.ui.views.SearchView" partName="Search">
+<viewState isPinned="false">
+<view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
+<view IMemento.internal.id="org.eclipse.cdt.ui.pdomSearchViewPage" definitionColumnWidth="150" locationColumnWidth="300" matchColumnWidth="300" org.eclipse.search.lastActivation="1" org.eclipse.search.resultpage.layout="2" showEnclosingDefinitions="true"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.coocox.component.ui.Help" partName="Help">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.cdt.ui.editor.CEditor" activePerspective="org.coocox.builder.perspective.CoBuilder">
+<perspective editorAreaTrimState="1" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.coocox.builder.ui.PerspectiveCoBuilder" id="org.coocox.builder.perspective.CoBuilder" label="CooCox CoBuilder"/>
+<alwaysOnActionSet id="org.coocox.component.ui.actionSet"/>
+<alwaysOnActionSet id="org.coocox.welcome.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.coocox.userspace.actionSet"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.refactoring.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.ShowDisassemblyAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showExpressionsAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showDebugAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showConsoleAction"/>
+<hide_menu_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.source.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryBrowserAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showVariablesAction"/>
+<hide_menu_item_id id="org.coocox.builder.ui.openProjectExplorerAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.trace.actions.ShowTraceControlAction"/>
+<hide_menu_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showRegistersAction"/>
+<hide_toolbar_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<fastViewBars>
+<fastViewBar fastViewLocation="16384" id="org.eclipse.ui.internal.ViewStack@1e07d3e" orientation="512" selectedTabId="org.coocox.builder.ui.views.ProjectView" style="1">
+<fastViews>
+<view id="org.coocox.builder.ui.views.ProjectView" ratio="0.29978472"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="131072" id="org.eclipse.ui.internal.ViewStack@13e9963" orientation="512" selectedTabId="org.coocox.component.ui.Help" style="0">
+<fastViews>
+<view id="org.coocox.component.ui.Help" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="1024" id="org.eclipse.ui.internal.ViewStack@99e99b" orientation="256" selectedTabId="org.eclipse.ui.console.ConsoleView" style="1">
+<fastViews>
+<view id="org.eclipse.ui.console.ConsoleView" ratio="0.4509804"/>
+<view id="org.eclipse.search.ui.views.SearchView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@e73750">
+<folder appearance="2" expanded="2">
+<page content="org.coocox.component.ui.ComponentView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="org.eclipse.ui.internal.ViewStack@e73750">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@99e99b" ratio="0.6995516" ratioLeft="468" ratioRight="201" relationship="4" relative="org.eclipse.ui.internal.ViewStack@e73750">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.coocox.builder.ui.exampleView" ratio="0.21944036" ratioLeft="298" ratioRight="1060" relationship="2" relative="org.eclipse.ui.internal.ViewStack@e73750"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@13e9963" ratio="0.7198113" ratioLeft="763" ratioRight="297" relationship="2" relative="org.coocox.builder.ui.exampleView">
+<folder appearance="2" expanded="2">
+<page content="org.coocox.component.ui.Help" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.coocox.coassistant.view.CoAssistantView" label="LabelNotFound"/>
+<page content="org.coocox.builder.ui.MoreExampleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.44992527" ratioLeft="301" ratioRight="368" relationship="4" relative="org.coocox.builder.ui.exampleView"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1e07d3e" ratio="0.36920777" ratioLeft="247" ratioRight="422" relationship="4" relative="org.eclipse.ui.internal.ViewStack@e73750">
+<folder appearance="2" expanded="2">
+<page content="org.coocox.builder.ui.views.ProjectView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/encoder/main.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/encoder/cmsis_lib/source/speed_control.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/encoder/cmsis_lib/source/localization.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/encoder/cmsis_lib/source/tm_stm32f4_rotary_encoder.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/encoder/cmsis_lib/source/localization.c"/>
+</editors>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="11103" y="0"/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="29841" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1672" y="0"/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="29841" y="0"/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="16572" y="0"/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="21694" y="7"/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="18870" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1672" y="0"/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="15756" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1672" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="2492" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="2445" y="0"/>
+</item>
+<item historyLabel="localization.c" index="2">
+<position info="not_deleted" x="24567" y="0"/>
+</item>
+<item historyLabel="tm_stm32f4_rotary_encoder.c" index="3">
+<position info="not_deleted" x="1523" y="10"/>
+</item>
+<item historyLabel="localization.c" index="2">
+<position info="not_deleted" x="24567" y="0"/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="15756" y="0"/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="16028" y="0"/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="29866" y="2"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="2311" y="0"/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="10877" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="2315" y="0"/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="18860" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="2315" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="2455" y="0"/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="28883" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="2367" y="0"/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="28883" y="0"/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="29232" y="0"/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="29216" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1535" y="0"/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="29216" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="2331" y="0"/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="29216" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="2316" y="0"/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="10765" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="476" y="0"/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="10765" y="0"/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="11735" y="0"/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="6022" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="2359" y="0"/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="29425" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1916" y="0"/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="29425" y="0"/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="18720" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1916" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="2302" y="0"/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position/>
+</item>
+<item historyLabel="speed_control.c" index="1">
+<position info="not_deleted" x="18525" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="2302" y="0"/>
+</item>
+<item active="true" historyLabel="localization.c" index="4">
+<position info="not_deleted" x="24567" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+</window>
+<mruList>
+<file factoryID="org.coocox.component.ui.editors.repository.RepositoryElementFactory" id="org.coocox.builder.ui.editors.repository.RepositoryBrowser" name="Repository" tooltip="Repository">
+<persistable>&#x0A;<subPage/>
+</persistable>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" tooltip="encoder/main.c">
+<persistable path="/encoder/main.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="speed_control.h" tooltip="encoder/cmsis_lib/include/speed_control.h">
+<persistable path="/encoder/cmsis_lib/include/speed_control.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="localization.h" tooltip="encoder/cmsis_lib/include/localization.h">
+<persistable path="/encoder/cmsis_lib/include/localization.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="odometry.c" tooltip="encoder/cmsis_lib/source/odometry.c">
+<persistable path="/encoder/cmsis_lib/source/odometry.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="pwm_motor.c" tooltip="encoder/cmsis_lib/source/pwm_motor.c">
+<persistable path="/encoder/cmsis_lib/source/pwm_motor.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_tim.c" tooltip="encoder/cmsis_lib/source/stm32f4xx_tim.c">
+<persistable path="/encoder/cmsis_lib/source/stm32f4xx_tim.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="tm_stm32f4_rotary_encoder.c" tooltip="encoder/cmsis_lib/source/tm_stm32f4_rotary_encoder.c">
+<persistable path="/encoder/cmsis_lib/source/tm_stm32f4_rotary_encoder.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="localization.c" tooltip="encoder/cmsis_lib/source/localization.c">
+<persistable path="/encoder/cmsis_lib/source/localization.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="tm_stm32f4_delay.h" tooltip="encoder/cmsis_lib/include/tm_stm32f4_delay.h">
+<persistable path="/encoder/cmsis_lib/include/tm_stm32f4_delay.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="lcd_16x2.c" tooltip="encoder/cmsis_lib/source/lcd_16x2.c">
+<persistable path="/encoder/cmsis_lib/source/lcd_16x2.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_tim.h" tooltip="encoder/cmsis_lib/include/stm32f4xx_tim.h">
+<persistable path="/encoder/cmsis_lib/include/stm32f4xx_tim.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="speed_control.c" tooltip="encoder/cmsis_lib/source/speed_control.c">
+<persistable path="/encoder/cmsis_lib/source/speed_control.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx_rcc.c" tooltip="encoder/cmsis_lib/source/stm32f4xx_rcc.c">
+<persistable path="/encoder/cmsis_lib/source/stm32f4xx_rcc.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="pwm_motor.c" tooltip="encoder/cmsis_lib/source/pwm_motor.c">
+<persistable path="/encoder/cmsis_lib/source/pwm_motor.c"/>
+</file>
+</mruList>
+</workbench>

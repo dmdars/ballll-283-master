@@ -1,0 +1,2 @@
+#Kamera omnidirectional Robot 21
+rosrun ros_essentials_cpp camOmni_node bot1 1

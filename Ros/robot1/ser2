@@ -1,0 +1,2 @@
+#Serial to Arduino UNO
+rosrun rosserial_arduino serial_node.py /dev/ttyACM1 _baud:=57600

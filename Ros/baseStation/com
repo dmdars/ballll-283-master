@@ -1,0 +1,5 @@
+#KRI Regional 2
+rosrun comm_tcp client_node 172.16.0.10 28097
+
+#Zaky
+#rosrun comm_tcp client_node 192.168.43.244 28097
